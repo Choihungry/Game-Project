@@ -1,4 +1,4 @@
-###R Game project -Team 12 
+#R Game project -Team 12 
 #####Team12 
 김진선20173223
 손성현20183223
